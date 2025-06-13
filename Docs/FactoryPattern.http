@@ -1,0 +1,10 @@
+# For more info on HTTP files go to https://aka.ms/vs/httpfile
+# Need to run api to test
+@rootUrl=https://localhost:7193
+
+
+# using query string parameters
+POST {{rootUrl}}/factory?type=Sms&to=user@example.com&message=Hello
+Accept: application/json
+Accept: application/json
+
