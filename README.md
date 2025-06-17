@@ -34,7 +34,7 @@ Expose a /send endpoint that accepts a notification type (email or sms) and send
 
 ## 📦 Requirements
 
-- .NET 6 or later
+- .NET 9 or later
 
 ## 🛠 How to Run
 
