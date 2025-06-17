@@ -7,12 +7,13 @@ The Factory Pattern is a creational design pattern that provides a way to create
 ## 🔍 Real-World Analogy
 Imagine you own a pizza store. When someone orders a pizza, they might choose:
 
-Cheese pizza
-Pepperoni pizza
+Cheese pizza,
+Pepperoni pizza or
 Veggie pizza
 
 You don’t want the customer to know how the pizza is made — they just say what they want, and the kitchen (factory) handles the rest.
-The kitchen is the factory: it knows how to create different types of pizza and gives back the right one. We can easly create a new pizza without
+The kitchen is the factory: it knows how to create different types of pizza and gives back the right one. 
+We can easly create a new pizza without breaking the logic
 
 ## ✅ When to Use the Factory Pattern
 Use it when:
